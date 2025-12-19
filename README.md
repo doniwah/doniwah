@@ -23,35 +23,17 @@
 
 ---
 
-# 🛠️ Skill Class Tier System
-
-### 🅰️ A-Class (Expert)
-- Java
-- Laravel
-- Python
-
-### 🅱️ B-Class (Good)
-- PHP
-- Go
-- C++
-
-### 🅲️ C-Class (Learning)
-- Next.js
-- TailwindCSS
-
----
-
 # 📈 GitHub Grade Card
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/grade?username=doniiwd&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/grade?username=doniwah&theme=tokyonight" />
 </p>
 
 ---
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doniiwd&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniiwd&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=doniwah&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniiwah&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
