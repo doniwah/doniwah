@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Doni Wahyudi</h1>
-<h3 align="center">A passionate Game Developer from Indonesia</h3>
-
-- 🌱 I’m currently learning **Java, MySQL, Go-lang**
-- 👨‍💻 All of my projects are available at: **[My Repository](#)**
-- 📫 Reach me at: **whyddoni@gmail.com**
+<h3 align="center">A passionate Game Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-### 🌐 Connect with me:
+### 🔥 About Me:
+- 🌱 Currently learning: **Java, MySQL, Go-lang**
+- 🎮 Passion: Game Development (C++, Cocos2d-x, Unity)
+- 👨‍💻 All my projects: **[My Repository](https://github.com/doniiwd?tab=repositories)**
+- 📫 Contact me: **whyddoni@gmail.com**
+
+---
+
+## 🌐 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/doni-wahyudi-2b45b3260/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -19,76 +23,100 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+# 🛠️ Languages & Tools:
 <p align="left">
 
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- TailwindCSS -->
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Go -->
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 
   <!-- PHP -->
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+
+  <!-- Go -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+
+  <!-- TailwindCSS -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+
+  <!-- Bootstrap -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+
+  <!-- Laravel -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
+
+  <!-- Next.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+# 🧩 Skill Class Tier System
+
+## 🅰️ A-Class (Expert)
+- Java
+- Laravel
+- Python
+
+## 🅱️ B-Class (Good)
+- PHP
+- Go
+- C++
+
+## 🅲️ C-Class (Learning)
+- Next.js
+- TailwindCSS
+
+---
+
+# 📈 GitHub Grade Card:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doniiwd&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniiwd&layout=compact&theme=tokyonight" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/grade?username=doniiwd&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Quote of the Day
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doniiwd&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniiwd&layout=compact&theme=tokyonight" height="150">
+</p>
+
+---
+
+# 🧠 GitHub Profile Summary:
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doniiwd&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 Contribution Cycle:
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doniiwd&theme=tokyonight&utcOffset=7" />
+</p>
+
+---
+
+# 🌍 Most Used Languages:
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doniiwd&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Quote of The Day:
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
